@@ -6,7 +6,7 @@ IMPORTANTE:
 
 a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
 
-b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
+b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar).
 
 c) Explique como chegou no resultado.
 Para resolver o problema, é necessário calcular em que ponto da rodovia ocorre o encontro entre os dois veículos e, em seguida, determinar qual dos dois estará mais próximo da cidade de Ribeirão Preto neste ponto.

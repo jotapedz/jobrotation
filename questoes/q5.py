@@ -11,5 +11,5 @@ for i in range(len(string)-1, -1, -1):
 # Transformando a lista de caracteres invertidos em uma string
 string_invertida = ''.join(string_invertida)
 
-# Imprimindo a string invertida
+# Imprimindo a string invertida.
 print(string_invertida)

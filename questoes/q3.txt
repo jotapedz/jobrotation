@@ -1,4 +1,4 @@
-a) O próximo número é 9. A lógica é adicionar 2 ao número anterior.
+a) O próximo número é 9. A lógica é adicionar 2 ao número anterior;
 
 b) O próximo número é 128. A lógica é multiplicar o número anterior por 2.
 

@@ -13,7 +13,7 @@ num = int(input('Informe um número: '))
 #Calcula a sequência de Fibonacci até o número informado
 seq_fib = fibonacci(num)
 
-#Verifica se o número informado pertence à sequência de Fibonacci
+#Verifica se o número informado pertence a sequência de Fibonacci
 if num in seq_fib:
     print(f'O número {num} pertence à sequência de Fibonacci: {seq_fib}')
 else:
