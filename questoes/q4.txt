@@ -1,0 +1,28 @@
+Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+
+
+IMPORTANTE:
+
+a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
+
+b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
+
+c) Explique como chegou no resultado.
+Para resolver o problema, é necessário calcular em que ponto da rodovia ocorre o encontro entre os dois veículos e, em seguida, determinar qual dos dois estará mais próximo da cidade de Ribeirão Preto neste ponto.
+
+r- A distância entre Ribeirão Preto e Franca é de 100 km. Como os veículos saem de cidades opostas e se movem em direção uma ao outro, eles se encontram no ponto médio entre as duas cidades, que está localizado a uma distância de 50 km de cada uma das cidades.
+
+O carro viaja a uma velocidade constante de 110 km/h, enquanto o caminhão viaja a uma velocidade constante de 80 km/h, o que significa que o carro se moverá mais rapidamente do que o caminhão. No entanto, o caminhão leva 5 minutos extras em cada pedágio, o que faz com que ele perca um pouco de terreno para o carro.
+
+Vamos calcular em quanto tempo os veículos se encontram:
+
+A distância entre os veículos no início é de 100 km (50 km a partir de cada cidade). A soma das velocidades do carro e do caminhão é de 110 km/h + 80 km/h = 190 km/h. Portanto, o tempo necessário para os veículos se encontrarem é:
+
+tempo = distância / velocidade = 100 km / 190 km/h = 0,526 horas = 31,5 minutos
+
+Isso significa que os veículos se encontrarão 31,5 minutos depois que o carro sair de Ribeirão Preto e 31,5 minutos antes que o caminhão chegue a Ribeirão Preto.
+
+Para determinar qual veículo está mais próximo de Ribeirão Preto no ponto de encontro, podemos calcular a distância percorrida por cada veículo até o ponto de encontro. Sabemos que o carro viaja a 110 km/h durante todo o percurso, o que significa que percorre uma distância de 91,67 km (110 km/h x 0,526 h) até o ponto de encontro. Já o caminhão, devido aos pedágios, viaja a 80 km/h durante 31,5 minutos a mais que o carro, ou seja, 0,525 horas. Isso significa que ele percorre uma distância de 42 km (80 km/h x 0,525 h) a menos que o carro até o ponto de encontro. Portanto, o caminhão estará mais próximo da cidade de Ribeirão Preto no ponto de encontro entre os veículos.
+
+Concluímos que o caminhão estará mais próximo da cidade de Ribeirão Preto no ponto de encontro entre os veículos.

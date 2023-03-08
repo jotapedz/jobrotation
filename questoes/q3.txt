@@ -1,0 +1,11 @@
+a) O próximo número é 9. A lógica é adicionar 2 ao número anterior.
+
+b) O próximo número é 128. A lógica é multiplicar o número anterior por 2.
+
+c) O próximo número é 49. A lógica é adicionar o próximo número ímpar à sequência.
+
+d) O próximo número é 100. A lógica é elevar os números ímpares a 2.
+
+e) O próximo número é 13. A lógica é adicionar os dois números anteriores para obter o próximo número na sequência.
+
+f) O próximo número é 20. A lógica é adicionar 2 ao primeiro número, adicionar 2 ao segundo número, adicionar 4 ao terceiro número, adicionar 1 ao quarto número, adicionar 1 ao quinto número, adicionar 1 ao sexto número, adicionar 1 ao sétimo número.
